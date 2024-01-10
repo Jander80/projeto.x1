@@ -1,0 +1,33 @@
+ /* PARTE DO CODIGO REFERENTE AO CABECALHO    */
+/* EXEMPLO DE CRIAR UM PADRÃO ORGANIZADO. */
+ /* PARTE FINAL DO CABECALHO  */
+
+ 
+
+ .batata{
+    background-color: blue;
+ }
+
+ .color1{
+    background-color: red
+ } 
+ .color2{
+    background-color:yellow;
+}
+.color3{
+    background-color:blueviolet;
+}
+
+.pai1{
+    height: 600px;
+    background-color: green;
+}
+.pai2{
+    height: 200px;
+    background-color: red;
+}
+.header{
+    width: 100%;
+    height: 20%;
+    background-color: yellow;
+}
